@@ -1,8 +1,9 @@
 body {
-   background: rgba(0, 0, 0, 0.9);
+   background-color: burlywood;
    margin: 0;
    color: #fff;
    font-family: 'Open Sans', sans-serif;
+  
  }
  
  .header::after {
